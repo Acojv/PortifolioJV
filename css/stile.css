@@ -82,7 +82,7 @@ header>.interface {
     font-size: 20px;
 }
 header .menu-desktop {
- padding-left: 200px;
+ padding-left: 400px;
  
 }
 header a {
@@ -92,12 +92,14 @@ header a {
     transition: .2s;
 }
 
+div.logo {
+    padding-left: 50px;
+}
+
 header img.fft {
     color: #fff;
     width: 100px;
 }
-
-
 
 header  a:hover {
     color: #00FF08;
@@ -174,9 +176,6 @@ img.ft{
     border-radius: 200px;
 
 }
-
-
-
 
 section.especiliadades {
     padding: 40px 4%;
